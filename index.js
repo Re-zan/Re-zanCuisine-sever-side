@@ -12,7 +12,6 @@ app.get("/", (req, res) => {
 app.get("/chefrecipes/:id", (req, res) => {
   const id = parseInt(req.params.id);
   const chefSingleData = chefData.find((data) => parseInt(data.id) === id);
-  console.log(chefSingleData);
   res.send(chefSingleData);
 });
 
