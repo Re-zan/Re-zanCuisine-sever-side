@@ -1,0 +1,554 @@
+[
+  {
+    "id": 1,
+    "chef": "Chef Ahmed Hossain",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ahmed_Hossain_Chef_Dhaka_Regency.jpg",
+    "years_of_experience": 15,
+    "num_recipes": 200,
+    "bio": "Chef Ahmed Hossain is a renowned chef with over 15 years of experience in the culinary industry. He has gained recognition for his unique cooking style and innovative recipes. Chef Hossain is known for his passion for using fresh, locally sourced ingredients to create dishes that are not only delicious but also visually appealing. His expertise lies in combining traditional flavors with modern techniques, resulting in culinary masterpieces that leave a lasting impression on diners.",
+
+    "best_recipes": [
+      {
+        "name": "Lamb Korma",
+        "recipe_img": "https://img.taste.com.au/yktdxCjq/w643-h428-cfill-q90/taste/2016/05/lamb-korma-recipe-185626-1.jpg",
+        "ingredients": [
+          "Lamb",
+          "Onion",
+          "Tomato",
+          "Yogurt",
+          "Ginger",
+          "Garlic",
+          "Cashew nuts",
+          "Garam masala",
+          "Turmeric powder",
+          "Cumin powder",
+          "Coriander powder",
+          "Chili powder",
+          "Cream",
+          "Fresh cilantro",
+          "Salt",
+          "Oil"
+        ],
+        "cooking_method": [
+          "Marinate the lamb with yogurt, ginger-garlic paste, and spices for an hour.",
+          "In a pan, heat oil and sauté sliced onions until golden brown.",
+          "Add chopped tomatoes and cook until they soften.",
+          "Add the marinated lamb and cook until it's tender and the flavors are well incorporated.",
+          "Add cashew nut paste, garam masala, and cream. Simmer for a few minutes.",
+          "Garnish with fresh cilantro and serve hot with naan or rice."
+        ],
+        "rating": 4.8
+      },
+      {
+        "name": "Grilled Salmon with Lemon Butter Sauce",
+        "recipe_img": "https://static01.nyt.com/images/2015/08/14/dining/14ROASTEDSALMON/14ROASTEDSALMON-articleLarge.jpg?w=1280&q=75",
+        "ingredients": [
+          "Salmon fillets",
+          "Lemon juice",
+          "Garlic",
+          "Butter",
+          "Fresh dill",
+          "Salt",
+          "Black pepper"
+        ],
+        "cooking_method": [
+          "Preheat the grill to medium-high heat.",
+          "Season the salmon fillets with salt, pepper, and minced garlic.",
+          "Grill the salmon for about 4-5 minutes per side or until it's cooked through and has grill marks.",
+          "In a small saucepan, melt the butter and stir in lemon juice and chopped dill.",
+          "Drizzle the lemon butter sauce over the grilled salmon fillets.",
+          "Serve hot with steamed vegetables or roasted potatoes."
+        ],
+        "rating": 4.5
+      },
+      {
+        "name": "Mango Mousse",
+        "recipe_img": "https://www.onmanorama.com/content/dam/mm/en/food/recipe/images/2021/4/26/mango-mousse.jpg.transform/845x440/image.jpg",
+        "ingredients": [
+          "Ripe mangoes",
+          "Gelatin",
+          "Whipped cream",
+          "Sugar",
+          "Lime juice",
+          "Mint leaves",
+          "Mango slices"
+        ],
+        "cooking_method": [
+          "Peel and puree the ripe mangoes in a blender.",
+          "Dissolve the gelatin in warm water according to the package instructions.",
+          "In a mixing bowl, combine the mango puree, dissolved gelatin, whipped cream, sugar, and lime juice.",
+          "Whisk until well-combined and smooth.",
+          "Pour the mango mousse mixture into individual serving glasses.",
+          "Refrigerate for at least 4 hours or until set.",
+          "Garnish with mint leaves and mango slices before serving."
+        ],
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef": "Chef Tony",
+    "img_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg",
+    "years_of_experience": 20,
+    "num_recipes": 300,
+    "bio": "Chef Tony is a highly acclaimed culinary expert with over 20 years of experience in the industry. He is known for his exceptional skills, creativity, and ability to create extraordinary flavors. Chef Tony has a deep understanding of both local and international cuisines and has gained a reputation for his innovative fusion dishes. He has a keen eye for detail and emphasizes the use of high-quality ingredients to create culinary masterpieces that delight the senses.",
+    "best_recipes": [
+      {
+        "name": "Spicy Grilled Prawn Skewers",
+        "recipe_img": "https://www.tastingtable.com/img/gallery/sweet-and-spicy-grilled-shrimp-recipe/intro-1643120504.webp",
+        "ingredients": [
+          "Prawns",
+          "Lemon",
+          "Garlic",
+          "Chili powder",
+          "Paprika",
+          "Cumin powder",
+          "Salt",
+          "Black pepper",
+          "Olive oil",
+          "Fresh cilantro"
+        ],
+        "cooking_method": [
+          "Marinate the prawns with lemon juice, minced garlic, chili powder, paprika, cumin powder, salt, and black pepper for 30 minutes.",
+          "Thread the marinated prawns onto skewers.",
+          "Preheat the grill to medium-high heat.",
+          "Grill the prawn skewers for about 2-3 minutes per side or until they are cooked through and lightly charred.",
+          "Drizzle with olive oil and garnish with fresh cilantro.",
+          "Serve hot as an appetizer or main course."
+        ],
+        "rating": 4.7
+      },
+      {
+        "name": "Lemon Herb Roast Chicken",
+        "recipe_img": "https://justcook.butcherbox.com/wp-content/uploads/2019/07/lemon_herb_roasted_chicken_1280-1-800x450.jpg",
+        "ingredients": [
+          "Whole chicken",
+          "Lemon",
+          "Garlic",
+          "Fresh rosemary",
+          "Fresh thyme",
+          "Salt",
+          "Black pepper",
+          "Olive oil"
+        ],
+        "cooking_method": [
+          "Preheat the oven to 425°F (220°C).",
+          "Rinse the chicken inside and out, then pat dry with paper towels.",
+          "Stuff the cavity of the chicken with lemon wedges, garlic cloves, fresh rosemary, and fresh thyme.",
+          "Rub the chicken with salt, black pepper, and olive oil.",
+          "Place the chicken on a roasting pan and roast for about 1 hour or until the internal temperature reaches 165°F (74°C).",
+          "Remove the chicken from the oven and let it rest for 10 minutes before carving.",
+          "Serve hot with your choice of sides."
+        ],
+        "rating": 4.9
+      },
+      {
+        "name": "Mango Coconut Rice Pudding",
+        "recipe_img": "https://www.wildfigfood.com/wp-content/uploads/2018/05/IMAGE-chilled-coconut-milk-rice-pudding-with-mango-and-pineapple.jpg",
+        "ingredients": [
+          "Basmati rice",
+          "Coconut milk",
+          "Mango puree",
+          "Sugar",
+          "Cardamom powder",
+          "Raisins",
+          "Cashews",
+          "Coconut flakes"
+        ],
+        "cooking_method": [
+          "Rinse the basmati rice and cook it with coconut milk until tender.",
+          "In a saucepan, heat mango puree, sugar, and cardamom powder.",
+          "Add the cooked rice to the saucepan and mix well.",
+          "Simmer for a few minutes until the flavors meld together.",
+          "In a separate pan, toast cashews, raisins, and coconut flakes until golden brown.",
+          "Garnish the rice"
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef": "Fearless Chef Kiran Jethwa",
+    "img_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg",
+    "years_of_experience": 12,
+    "num_recipes": 150,
+    "bio": "Fearless Chef Kiran Jethwa is a renowned culinary expert with a passion for exploring unique flavors from around the world. With over 12 years of experience, he has traveled to various countries, immersing himself in local cuisines and learning traditional cooking techniques. Chef Jethwa is known for his adventurous approach to food, fearlessly experimenting with unusual ingredients and pushing the boundaries of flavors. His culinary creations are a fusion of creativity and authenticity, reflecting his bold personality and unwavering passion for culinary exploration.",
+    "best_recipes": [
+      {
+        "name": "Tandoori Grilled Lobster",
+        "recipe_img": "https://img.freepik.com/premium-photo/grilled-lobster-steak_1339-117047.jpg?w=900",
+        "ingredients": [
+          "Lobster",
+          "Yogurt",
+          "Ginger",
+          "Garlic",
+          "Lemon juice",
+          "Turmeric powder",
+          "Cumin powder",
+          "Coriander powder",
+          "Paprika",
+          "Garam masala",
+          "Salt",
+          "Black pepper",
+          "Clarified butter"
+        ],
+        "cooking_method": [
+          "Prepare the tandoori marinade by mixing yogurt, ginger-garlic paste, lemon juice, turmeric powder, cumin powder, coriander powder, paprika, garam masala, salt, and black pepper in a bowl.",
+          "Coat the lobster with the marinade and let it marinate for at least 30 minutes.",
+          "Preheat the grill to medium-high heat.",
+          "Grill the lobster for about 5-6 minutes per side or until it's cooked through and has grill marks.",
+          "Brush with clarified butter while grilling for added flavor and moisture.",
+          "Serve hot with a side of mint chutney and lemon wedges."
+        ],
+        "rating": 4.8
+      },
+      {
+        "name": "Thai Green Curry",
+        "recipe_img": "https://images.herzindagi.info/image/2023/Mar/green-thai-curry-recipe-at-home.jpg",
+        "ingredients": [
+          "Chicken",
+          "Coconut milk",
+          "Thai green curry paste",
+          "Bamboo shoots",
+          "Bell peppers",
+          "Thai eggplant",
+          "Fish sauce",
+          "Palm sugar",
+          "Kaffir lime leaves",
+          "Basil leaves",
+          "Jasmine rice"
+        ],
+        "cooking_method": [
+          "In a pan, heat coconut milk and add Thai green curry paste.",
+          "Add chicken and cook until it's no longer pink.",
+          "Add bamboo shoots, bell peppers, and Thai eggplant. Cook until vegetables are tender.",
+          "Season with fish sauce and palm sugar for the perfect balance of flavors.",
+          "Add kaffir lime leaves and basil leaves for aromatic freshness.",
+          "Simmer for a few minutes and serve hot with jasmine rice."
+        ],
+        "rating": 4.6
+      },
+      {
+        "name": "Mango Salsa with Grilled Shrimp",
+        "recipe_img": "https://cookbetterthan.com/wp-content/uploads/2012/07/grilled-shrimp-with-mango-salsa1-1080x675.jpg",
+        "ingredients": [
+          "Mango",
+          "Red onion",
+          "Red bell pepper",
+          "Fresh cilantro",
+          "Lime juice",
+          "Jalapeno pepper",
+          "Garlic",
+          "Olive oil",
+          "Shrimp",
+          "Salt",
+          "Black pepper"
+        ],
+        "cooking_method": [
+          "In a bowl, combine diced mango, finely chopped red onion, red bell pepper, fresh cilantro, lime juice, finely chopped jalapeno pepper, and minced garlic.",
+          "Drizzle with olive oil and mix well to combine all the ingredients.",
+          "Preheat the grill to medium-high heat.",
+          "Season the shrimp with salt and black pepper.",
+          "Grill the shrimp for about 2-3 minutes per side or until they are pink and cooked through.",
+          "Remove the shrimp from the grill and let them cool slightly.",
+          "Dice the grilled shrimp and add them to the mango salsa mixture.",
+          "Gently toss the salsa to incorporate the shrimp.",
+          "Refrigerate the salsa for at least 30 minutes to allow the flavors to meld together.",
+          "Serve the mango salsa with grilled shrimp as a refreshing appetizer or as a topping for grilled fish or tacos."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef": "Chef Manik Miah",
+    "img_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
+    "years_of_experience": 20,
+    "num_recipes": 300,
+    "bio": "Chef Manik Miah is a highly experienced culinary expert with a remarkable career spanning over 20 years. He has a deep-rooted passion for cooking and has honed his skills in various renowned kitchens around the world. Chef Miah's culinary journey has exposed him to a wide array of cuisines, allowing him to master the art of creating exquisite dishes that please the senses. He is known for his attention to detail, precision, and ability to elevate simple ingredients into extraordinary culinary creations. Chef Miah's culinary expertise and dedication to his craft make him a beloved figure in the culinary industry.",
+    "best_recipes": [
+      {
+        "name": "Rogan Josh",
+        "recipe_img": "https://2.bp.blogspot.com/--qSXjvPqwlk/WNIdQmvaN6I/AAAAAAAADAg/h0j9hytktVY2lFI_AuhBR1fE7UkfK3t0gCLcB/s1600/Mutton%2BRogan%2BJosh%2BRecipe.JPG",
+        "ingredients": [
+          "Lamb",
+          "Yogurt",
+          "Onion",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Red chili powder",
+          "Coriander powder",
+          "Turmeric powder",
+          "Garam masala",
+          "Bay leaves",
+          "Cinnamon stick",
+          "Cardamom pods",
+          "Cloves",
+          "Oil",
+          "Salt"
+        ],
+        "cooking_method": [
+          "Heat oil in a pan and add bay leaves, cinnamon stick, cardamom pods, and cloves.",
+          "Add sliced onions and cook until golden brown.",
+          "Add ginger-garlic paste and cook until fragrant.",
+          "Add lamb pieces and cook until they are browned.",
+          "Add chopped tomatoes, red chili powder, coriander powder, turmeric powder, and salt. Cook for a few minutes.",
+          "Add yogurt and garam masala. Mix well.",
+          "Cover the pan and simmer for 1-2 hours until the lamb is tender and the flavors are well blended.",
+          "Garnish with fresh coriander leaves and serve hot with naan or rice."
+        ],
+        "rating": 4.8
+      },
+      {
+        "name": "Shrimp Biryani",
+        "recipe_img": "https://geekrobocook.com/wp-content/uploads/2021/03/34.-Prawn-biriyani-in-tender-Coconut.jpg",
+        "ingredients": [
+          "Shrimp",
+          "Basmati rice",
+          "Onion",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Yogurt",
+          "Biryani masala",
+          "Turmeric powder",
+          "Red chili powder",
+          "Garam masala",
+          "Mint leaves",
+          "Coriander leaves",
+          "Saffron",
+          "Milk",
+          "Oil",
+          "Salt"
+        ],
+        "cooking_method": [
+          "Cook basmati rice until it's 70% cooked. Drain and set aside.",
+          "In a separate pan, heat oil and fry sliced onions until golden brown. Remove half of the fried onions and set aside for garnishing.",
+          "Add ginger-garlic paste to the pan and cook until fragrant.",
+          "Add chopped tomatoes and cook until they soften.",
+          "Add shrimp and cook until they turn pink and are almost cooked through.",
+          "Add yogurt, biryani masala, turmeric powder, red chili powder, garam masala, mint leaves, coriander leaves, and salt. Mix well.",
+          "Layer the partially cooked rice over the shrimp mixture. Sprinkle saffron soaked in warm milk on top.",
+          "Cover the pan with a tight-fitting lid and cook on low heat for 20-25 minutes or until the rice is fully cooked and flavors are well infused.",
+          "Garnish with the reserved fried onions and serve hot with raita or a side salad."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Chicken Korma",
+        "recipe_img": "https://www.pakistanihealthyrecipes.com/wp-content/uploads/2021/07/how-to-make-chicken-korma-recipe-1024x683.jpg",
+        "ingredients": [
+          "Chicken",
+          "Yogurt",
+          "Onion",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Cashew nuts",
+          "Almonds",
+          "Poppy seeds",
+          "Melon seeds",
+          "Green chili",
+          "Fresh cream",
+          "Ghee",
+          "Cumin seeds",
+          "Bay leaves",
+          "Cinnamon stick",
+          "Cardamom pods",
+          "Cloves",
+          "Turmeric powder",
+          "Red chili powder",
+          "Coriander powder",
+          "Garam masala",
+          "Salt"
+        ],
+        "cooking_method": [
+          "Marinate the chicken pieces with yogurt, ginger-garlic paste, turmeric powder, red chili powder, and salt. Let it sit for 30 minutes.",
+          "In a blender, grind onion, cashew nuts, almonds, poppy seeds, melon seeds, and green chili into a smooth paste.",
+          "Heat ghee in a pan and add cumin seeds, bay leaves, cinnamon stick, cardamom pods, and cloves. Sauté until fragrant.",
+          "Add the ground paste and cook until it turns golden brown and the oil starts to separate.",
+          "Add chopped tomatoes and cook until they become soft.",
+          "Add marinated chicken and cook until it is browned on all sides.",
+          "Add turmeric powder, red chili powder, coriander powder, and salt. Mix well to coat the chicken with the spices.",
+          "Cover the pan and cook on low heat until the chicken is tender and cooked through.",
+          "Add fresh cream and garam masala. Mix well and cook for a few more minutes.",
+          "Garnish with fresh coriander leaves and serve hot with naan or rice."
+        ],
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+    "chef": "Chef Asad Latif",
+    "years_of_experience": 12,
+    "num_recipes": 200,
+    "bio": "Chef Asad Latif is a highly skilled and creative chef with 12 years of experience in the culinary industry. He has a passion for experimenting with flavors and techniques, constantly pushing the boundaries of traditional cuisine. Chef Latif's culinary journey has taken him to various countries, where he has learned from different culinary traditions and incorporated them into his own unique style. He is known for his attention to detail, innovative recipes, and dedication to providing an exceptional dining experience for his guests.",
+    "best_recipes": [
+      {
+        "name": "Butter Chicken",
+        "recipe_img": "https://www.danishfoodlovers.com/wp-content/uploads/2022/09/Butter-chicken-3.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1",
+        "ingredients": [
+          "Chicken",
+          "Yogurt",
+          "Ginger-garlic paste",
+          "Tomato puree",
+          "Butter",
+          "Cream",
+          "Kasuri methi",
+          "Garam masala",
+          "Kashmiri red chili powder",
+          "Sugar",
+          "Salt",
+          "Fresh coriander leaves"
+        ],
+        "cooking_method": [
+          "Marinate the chicken pieces with yogurt and ginger-garlic paste for 1-2 hours.",
+          "Heat butter in a pan and add the marinated chicken. Cook until the chicken is browned.",
+          "Add tomato puree, kasuri methi, garam masala, Kashmiri red chili powder, sugar, and salt. Cook for a few minutes.",
+          "Add cream and simmer the gravy for 10-15 minutes until the flavors meld together.",
+          "Garnish with fresh coriander leaves and serve hot with naan or rice."
+        ],
+        "rating": 4.7
+      },
+      {
+        "name": "Chicken Biryani",
+        "recipe_img": "https://recipe30.com/wp-content/uploads/2023/03/chicken-Biryani-848x477.jpg",
+        "ingredients": [
+          "Basmati rice",
+          "Chicken",
+          "Onion",
+          "Ginger-garlic paste",
+          "Tomato",
+          "Yogurt",
+          "Biryani masala",
+          "Turmeric powder",
+          "Garam masala",
+          "Mint leaves",
+          "Coriander leaves",
+          "Saffron",
+          "Milk"
+        ],
+        "cooking_method": [
+          "Soak the basmati rice in water for 30 minutes, then drain.",
+          "In a pot, heat oil and fry sliced onions until golden brown. Remove half of the fried onions and set aside for garnishing.",
+          "Add ginger-garlic paste to the pot and cook until fragrant.",
+          "Add chicken pieces and cook until they are browned.",
+          "Add chopped tomatoes, yogurt, biryani masala, turmeric powder, and garam masala. Cook for a few minutes.",
+          "Add soaked rice, mint leaves, and coriander leaves to the pot.",
+          "Dissolve saffron in warm milk and pour it over the rice.",
+          "Cover the pot with a tight-fitting lid and cook on low heat for 20-25 minutes or until the rice is cooked and flavors are well infused.",
+          "Garnish with the reserved fried onions and serve hot with raita or salan."
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Chocolate Lava Cake",
+        "recipe_img": "https://images-gmi-pmc.edge-generalmills.com/77042b49-0ed1-442d-ab49-08a6e3c2f6e3.jpg",
+        "ingredients": [
+          "Dark chocolate",
+          "Butter",
+          "Eggs",
+          "Granulated sugar",
+          "All-purpose flour",
+          "Vanilla extract",
+          "Salt"
+        ],
+        "cooking_method": [
+          "Preheat the oven to 425°F (220°C). Grease and flour individual ramekins.",
+          "In a microwave-safe bowl, melt the dark chocolate and butter together, stirring until smooth.",
+          "In a separate bowl, whisk the eggs and granulated sugar until well combined.",
+          "Pour the melted chocolate mixture into the egg mixture and whisk until smooth.",
+          "Add the all-purpose flour, vanilla extract, and salt to the bowl. Stir until just combined.",
+          "Divide the batter evenly among the prepared ramekins.",
+          "Place the ramekins on a baking sheet and bake for 12-14 minutes, or until the edges are set but the center is still slightly soft.",
+          "Remove the ramekins from the oven and let them cool for 1 minute.",
+          "Using oven mitts, carefully invert each ramekin onto a plate. Gently lift the ramekin to reveal the warm, gooey chocolate lava cake.",
+          "Serve immediately, optionally dusted with powdered sugar and topped with a scoop of ice cream or fresh berries."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef": "Chef Baisab",
+    "img_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Baisab-top-popular-chefs-in-Bangladesh.jpg",
+    "years_of_experience": 15,
+    "num_recipes": 300,
+    "bio": "Chef Baisab is a seasoned culinary expert with 15 years of experience in the industry. He is known for his innovative approach to cooking and his ability to create unique flavors using traditional ingredients. Chef Baisab's passion for food started at a young age and has led him to work in renowned restaurants around the world. His expertise lies in fusion cuisine, where he combines different culinary techniques and flavors to create delightful and memorable dishes.",
+    "best_recipes": [
+      {
+        "name": "Spicy Grilled Shrimp",
+        "recipe_img": "https://i.pinimg.com/736x/13/db/5d/13db5dfc8a35cc421fbf7e12b799730b.jpg",
+        "ingredients": [
+          "Shrimp",
+          "Lemon juice",
+          "Olive oil",
+          "Garlic powder",
+          "Paprika",
+          "Cayenne pepper",
+          "Salt",
+          "Black pepper"
+        ],
+        "cooking_method": [
+          "In a bowl, mix lemon juice, olive oil, garlic powder, paprika, cayenne pepper, salt, and black pepper to make a marinade.",
+          "Add the shrimp to the marinade and let it sit for 15-20 minutes.",
+          "Preheat the grill to medium-high heat.",
+          "Thread the marinated shrimp onto skewers and grill for 2-3 minutes per side, or until the shrimp are cooked through and slightly charred.",
+          "Serve the spicy grilled shrimp as an appetizer or as a main dish with a side of salad or rice."
+        ],
+        "rating": 4.8
+      },
+      {
+        "name": "Mango Salsa",
+        "recipe_img": "https://healthyfoodiegirl.com/wp-content/uploads/2022/07/Easy-Mango-Salsa-Recipe.jpg",
+        "ingredients": [
+          "Ripe mangoes",
+          "Red bell pepper",
+          "Red onion",
+          "Fresh cilantro",
+          "Lime juice",
+          "Salt",
+          "Black pepper",
+          "Cayenne pepper"
+        ],
+        "cooking_method": [
+          "Dice the ripe mangoes, red bell pepper, and red onion into small pieces.",
+          "Chop fresh cilantro finely.",
+          "In a bowl, combine the diced mangoes, red bell pepper, red onion, and cilantro.",
+          "Add lime juice, salt, black pepper, and a pinch of cayenne pepper. Mix well.",
+          "Let the mango salsa sit in the refrigerator for at least 30 minutes to allow the flavors to meld together.",
+          "Serve the refreshing mango salsa as a topping for grilled chicken, fish, or as a dip with tortilla chips."
+        ],
+        "rating": 4.7
+      },
+      {
+        "name": "Creamy Garlic Mashed Potatoes",
+        "recipe_img": "https://foodieandwine.com/wp-content/uploads/2022/03/sous_vide_Mashed_Potatoes_9.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Garlic",
+          "Butter",
+          "Heavy cream",
+          "Salt",
+          "Black pepper",
+          "Chives (optional)"
+        ],
+        "cooking_method": [
+          "Peel and dice the potatoes into small cubes.",
+          "In a large pot, bring water to a boil and add the diced potatoes and garlic cloves. Cook until the potatoes are fork-tender.",
+          "Drain the potatoes and garlic, then return them to the pot.",
+          "Add butter, heavy cream, salt, and black pepper to the pot.",
+          "Using a potato masher or electric mixer, mash the potatoes until smooth and creamy.",
+          "Adjust the seasoning if needed.",
+          "Optional: Garnish with chopped chives for added flavor and presentation.",
+          "Serve the creamy garlic mashed potatoes as a side dish with roasted meat, grilled vegetables, or as a comforting standalone dish."
+        ],
+        "rating": 4.9
+      }
+    ]
+  }
+]
