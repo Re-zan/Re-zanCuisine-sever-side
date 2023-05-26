@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Emma Thompson",
+    "img": "https://media.licdn.com/dms/image/C5603AQHVpEGWo_kBeQ/profile-displayphoto-shrink_800_800/0/1656605880940?e=2147483647&v=beta&t=U_E1oabgrcbcGVaC_NWDiPJvSpHtYxFEnjv-5t7uyd4",
+    "occupation": "Food Critic",
+    "testimonial": "Re-zanCuisine has completely redefined my dining experiences. The flavors are exquisite, the presentation is a work of art, and the service is impeccable. Every visit is a culinary adventure that leaves me in awe. Highly recommended!"
+  },
+  {
+    "id": 2,
+    "name": "John Patel",
+    "img": "https://media.licdn.com/dms/image/C4E03AQG-4MWUZMpVSA/profile-displayphoto-shrink_800_800/0/1644530645905?e=2147483647&v=beta&t=sDcZuMTlTNhkqKPCrMHpPRfiXogcjX3M0m_xpTbEJ3E",
+    "occupation": "Restaurant Owner",
+    "testimonial": "As a fellow restaurateur, I am blown away by the creativity and innovation at Re-zanCuisine. Their culinary prowess is unparalleled, and the attention to detail is extraordinary. It's evident that they have a genuine passion for delivering exceptional dining experiences."
+  },
+  {
+    "id": 3,
+    "name": "Sophia Davis",
+    "img": "https://media.licdn.com/dms/image/C4E03AQE7JummcCI-ug/profile-displayphoto-shrink_800_800/0/1649193195926?e=2147483647&v=beta&t=RVY2tGz-Zfw6gU7mKvOt0s39msKOB1aBATPuFCkNaYI",
+    "occupation": "Food Enthusiast",
+    "testimonial": "Re-zanCuisine is a hidden gem! The flavors are bold and unexpected, and each dish tells a unique story. The ambiance is elegant, and the staff is knowledgeable and attentive. It's my go-to place for celebrating special occasions."
+  },
+  {
+    "id": 4,
+    "name": "David Lee",
+    "img": "https://pbs.twimg.com/media/FDMnQunWUAUpBJF.jpg:large",
+    "occupation": "Executive Chef",
+    "testimonial": "Re-zanCuisine pushes the boundaries of culinary artistry. The chefs' skillful techniques and innovative flavor combinations are awe-inspiring. It's a place where I find inspiration and appreciation for the craft. A true culinary haven!"
+  },
+  {
+    "id": 5,
+    "name": "Olivia Adams",
+    "img": "https://media.licdn.com/dms/image/D5603AQHLPC4j0ygDbg/profile-displayphoto-shrink_800_800/0/1677440895449?e=2147483647&v=beta&t=ETq4bBRc5YkhZTwYb78xawlhI2fIky1aWQUAzJBY7So",
+    "occupation": "Food Blogger",
+    "testimonial": "Re-zanCuisine has a magical way of transforming ordinary ingredients into extraordinary culinary masterpieces. Each dish is a symphony of flavors that dance on your palate. It's a must-visit destination for any food lover."
+  },
+  {
+    "id": 6,
+    "name": "Michael Johnson",
+    "img": "https://palmbeach.floridaweekly.com/wp-content/uploads/images/2017-02-02/36p1.jpg",
+    "occupation": "Fine Dining Connoisseur",
+    "testimonial": "Re-zanCuisine is the epitome of fine dining. The attention to detail, from the moment you step in, is remarkable. The flavors are exquisite, and the service is impeccable. It's a culinary experience that leaves a lasting impression."
+  }
+]
